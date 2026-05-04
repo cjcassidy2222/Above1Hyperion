@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Info File="requirements/aoe4066_team2_main.slreqx" GroupUUID="default" Icon="" Name="aoe4066_team2_main" Type="StartUp" Visible="0">
-    <Extension Name="StartUpPrev" Value="a14f8c43-e435-4bcc-8ad7-4bd2d2d2d46f"/>
-</Info>
