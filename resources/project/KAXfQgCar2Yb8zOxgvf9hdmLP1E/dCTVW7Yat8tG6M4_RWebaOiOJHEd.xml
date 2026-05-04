@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="platform/A1_Aircraft_System.slx" GroupUUID="default" Icon="" Name="A1_Aircraft_System" Type="StartUp" Visible="0">
+    <Extension Name="StartUpPrev" Value="HEAD"/>
+</Info>
